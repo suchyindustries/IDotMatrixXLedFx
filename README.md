@@ -57,7 +57,7 @@ simplepyble==0.10.3
 
 ### 1. Setup LedFX
 - Install and configure [LedFX](https://ledfx.app/)
-- Add a **WLED device** pointing to `127.0.0.1:21324`
+- Add a **WLED device** pointing to your pc running code for example is LedFX and this is on this same machine `127.0.0.1:21324`
 - Configure 32x32 LED matrix (1024 pixels)
 
 ### 2. Update MAC Address
